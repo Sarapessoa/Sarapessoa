@@ -27,7 +27,7 @@ I'm a Computer Science student at the University of Fortaleza, currently in my 4
 ## My GitHub Stats
 
 <div style="display: flex; align-items: center;" align="center">
-  <img width="25%" src="https://github-readme-stats.vercel.app/api?username=Sarapessoa&theme=radical"/>
-  <img width="25%" src="http://github-readme-streak-stats.herokuapp.com?user=Sarapessoa&theme=radical"/>
-  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarapessoa&theme=radical"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Sarapessoa&theme=radical"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarapessoa&theme=radical"/>
+  <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=Sarapessoa&theme=radical"/>
 </div>
