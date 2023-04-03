@@ -8,27 +8,31 @@ I'm a Computer Science student at the University of Fortaleza, currently in my 4
 
 ## Tecnology Stack 
 
-<div align="center" style="display: flex; justify-content: space-between; ">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" height="24em" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" height="24em" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" height="24em" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24em" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" height="24em" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" height="24em" />
-  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" height="24em" />
-  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white" height="24em" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white" height="24em" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=whit" height="24em" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white" height="24em" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white" height="24em" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white" height="24em" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase" height="24em" />
+<div align="center" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 ## My GitHub Stats
 
-<div style="display: flex; align-items: center;" align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Sarapessoa&theme=radical"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarapessoa&theme=radical"/>
-  <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=Sarapessoa&theme=radical"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sarapessoa&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Sara Pessoa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarapessoa&layout=compact&hide_border=true&theme=radical" />
 </div>
