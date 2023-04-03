@@ -8,10 +8,11 @@ I'm a Computer Science student at the University of Fortaleza, currently in my 4
 
 ## Tecnology Stack 
 
-<div style="display: flex; justify-content: space-between; ">
+<div align="center" style="display: flex; justify-content: space-between; ">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" height="24em" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" height="24em" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" height="24em" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24em" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" height="24em" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" height="24em" />
   <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" height="24em" />
