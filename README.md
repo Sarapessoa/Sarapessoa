@@ -3,7 +3,7 @@
 ## About Me
 
 <p align="center">
-I'm a Computer Science student at the University of Fortaleza, currently in my 4th semester. I am always looking for new opportunities to learn about new technologies and explore different areas of computer science. My goal is to pursue a career in software development, and to achieve that, I am working on improving my programming skills. Currently, I am working on a personal project of a word game called Find Five, which allows me to enhance my programming skills while having fun. Feel free to check out my projects and repositories and get in touch with me if you want to chat about programming or technology!
+I'm a Computer Science student at the University of Fortaleza, currently in my 7th semester. I am always looking for new opportunities to learn about new technologies and explore different areas of computer science. My goal is to pursue a career in software development, and to achieve that, I am working on improving my programming skills. Currently, I am working on a personal project of a word game called Find Five, which allows me to enhance my programming skills while having fun. Feel free to check out my projects and repositories and get in touch with me if you want to chat about programming or technology!
 </p>
 
 ## Tecnology Stack 
